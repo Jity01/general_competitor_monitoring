@@ -17,7 +17,7 @@ One-time generation. The skill itself is what runs on the recurring schedule —
 ## Step 1 — Generate your skill
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Jity01/general_competitor_monitoring.git
 cd general_competitor_monitoring
 cp .env.example .env
 # edit .env: paste your ANTHROPIC_API_KEY (https://console.anthropic.com/settings/keys)
@@ -97,4 +97,4 @@ You can — and should — keep editing it.
 
 ---
 
-Open source — issues + PRs welcome at `<repo-url>`.
+Open source at [github.com/Jity01/general_competitor_monitoring](https://github.com/Jity01/general_competitor_monitoring) — issues + PRs welcome.
